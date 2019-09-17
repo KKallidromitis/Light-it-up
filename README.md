@@ -1,2 +1,2 @@
-# Ligt-it-up
+# Light-it-up
 Minigame in Arduino

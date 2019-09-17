@@ -1,9 +1,4 @@
-/*
-Resources:
-http://www.arduino.cc/en/Tutorial/LiquidCrystalHelloWorld
-http://www.arduino.cc/en/Tutorial/Tone
-https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Rotary-Encoder-test-Code
-*/
+
 #define ENC_A 6 //these need to be digital input pins
 #define ENC_B 7
 #include "pitches.h"
@@ -274,3 +269,11 @@ int melody_sad(){
     noTone(13);
   }
 }
+
+
+/*
+Resources:
+http://www.arduino.cc/en/Tutorial/LiquidCrystalHelloWorld
+http://www.arduino.cc/en/Tutorial/Tone
+https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Rotary-Encoder-test-Code
+*/
